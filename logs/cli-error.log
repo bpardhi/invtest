@@ -1,0 +1,60 @@
+2016-08-17 05:32:44 Error: [Cake\Console\Exception\MissingShellException] Shell class for "Clear" could not be found.
+Exception Attributes: array (
+  'class' => 'Clear',
+)
+Stack Trace:
+#0 C:\xamppp\htdocs\cakephp-tuts\vendor\cakephp\cakephp\src\Console\ShellDispatcher.php(223): Cake\Console\ShellDispatcher->findShell('clear')
+#1 C:\xamppp\htdocs\cakephp-tuts\vendor\cakephp\cakephp\src\Console\ShellDispatcher.php(182): Cake\Console\ShellDispatcher->_dispatch(Array)
+#2 C:\xamppp\htdocs\cakephp-tuts\vendor\cakephp\cakephp\src\Console\ShellDispatcher.php(128): Cake\Console\ShellDispatcher->dispatch(Array)
+#3 C:\xamppp\htdocs\cakephp-tuts\bin\cake.php(33): Cake\Console\ShellDispatcher::run(Array)
+#4 {main}
+
+
+2017-09-05 09:26:04 Error: [Cake\Console\Exception\MissingShellException] Shell class for "DebugKit" could not be found.
+Exception Attributes: array (
+  'class' => 'DebugKit',
+)
+Stack Trace:
+#0 /var/www/html/invtest/vendor/cakephp/cakephp/src/Console/ShellDispatcher.php(223): Cake\Console\ShellDispatcher->findShell('DebugKit')
+#1 /var/www/html/invtest/vendor/cakephp/cakephp/src/Console/ShellDispatcher.php(182): Cake\Console\ShellDispatcher->_dispatch(Array)
+#2 /var/www/html/invtest/vendor/cakephp/cakephp/src/Console/ShellDispatcher.php(128): Cake\Console\ShellDispatcher->dispatch(Array)
+#3 /var/www/html/invtest/bin/cake.php(33): Cake\Console\ShellDispatcher::run(Array)
+#4 {main}
+
+
+2017-09-05 09:26:56 Error: [Cake\Console\Exception\MissingShellException] Shell class for "Debugkit" could not be found.
+Exception Attributes: array (
+  'class' => 'Debugkit',
+)
+Stack Trace:
+#0 /var/www/html/invtest/vendor/cakephp/cakephp/src/Console/ShellDispatcher.php(223): Cake\Console\ShellDispatcher->findShell('Debugkit')
+#1 /var/www/html/invtest/vendor/cakephp/cakephp/src/Console/ShellDispatcher.php(182): Cake\Console\ShellDispatcher->_dispatch(Array)
+#2 /var/www/html/invtest/vendor/cakephp/cakephp/src/Console/ShellDispatcher.php(128): Cake\Console\ShellDispatcher->dispatch(Array)
+#3 /var/www/html/invtest/bin/cake.php(33): Cake\Console\ShellDispatcher::run(Array)
+#4 {main}
+
+
+2017-09-05 09:26:59 Error: [Cake\Console\Exception\MissingShellException] Shell class for "Debugkit" could not be found.
+Exception Attributes: array (
+  'class' => 'Debugkit',
+)
+Stack Trace:
+#0 /var/www/html/invtest/vendor/cakephp/cakephp/src/Console/ShellDispatcher.php(223): Cake\Console\ShellDispatcher->findShell('Debugkit')
+#1 /var/www/html/invtest/vendor/cakephp/cakephp/src/Console/ShellDispatcher.php(182): Cake\Console\ShellDispatcher->_dispatch(Array)
+#2 /var/www/html/invtest/vendor/cakephp/cakephp/src/Console/ShellDispatcher.php(128): Cake\Console\ShellDispatcher->dispatch(Array)
+#3 /var/www/html/invtest/bin/cake.php(33): Cake\Console\ShellDispatcher::run(Array)
+#4 {main}
+
+
+2017-09-05 09:27:11 Error: [Cake\Console\Exception\MissingShellException] Shell class for "DebugKit" could not be found.
+Exception Attributes: array (
+  'class' => 'DebugKit',
+)
+Stack Trace:
+#0 /var/www/html/invtest/vendor/cakephp/cakephp/src/Console/ShellDispatcher.php(223): Cake\Console\ShellDispatcher->findShell('DebugKit')
+#1 /var/www/html/invtest/vendor/cakephp/cakephp/src/Console/ShellDispatcher.php(182): Cake\Console\ShellDispatcher->_dispatch(Array)
+#2 /var/www/html/invtest/vendor/cakephp/cakephp/src/Console/ShellDispatcher.php(128): Cake\Console\ShellDispatcher->dispatch(Array)
+#3 /var/www/html/invtest/bin/cake.php(33): Cake\Console\ShellDispatcher::run(Array)
+#4 {main}
+
+
